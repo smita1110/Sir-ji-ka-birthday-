@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+
 <!--[if lt IE 7]> <html class="ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>    <html class="ie lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>    <html class="ie lt-ie9"> <![endif]-->
 <!--[if gt IE 8]> <html> <![endif]-->
-<!--[if !IE]><!--><html lang="en"><!-- <![endif]-->
+<!--[if !IE]><!--><!-- <![endif]-->
 <head>
-	<title>Happy Birthday</title>
-	<meta charset="UTF-8" />
-	<meta name="description" content="Happy Birthday patidev 😚❤️🥳">
+	<title> "Happy Birthday patidev 😚❤️🥳"</title>
 	<meta name="robots" content="index, follow" />
 	<link rel="author" href="https://plus.google.com/u/1/+AyushSharma1/" /> 
     <meta name="keywords" content="Birthday, Happy">
@@ -154,20 +152,7 @@
 		<footer>
     <p>Made with ❤️ just for you, shreyansh aur khushi ke papa🫴🏻.</p>
   </footer>
-		<div class="navbar navbar-fixed-bottom">
-			<div class="row">
-				<div class="col-md-6 text-center col-md-offset-3">
-					<button class="btn btn-primary" id="turn_on">Turn On Lights</button>
-					<button class="btn btn-primary" id="play">Play Music</button>
-					<button class="btn btn-primary" id="bannar_coming">Let's Decorate</button>
-					<button class="btn btn-primary" id="balloons_flying">Fly With Balloons</button>
-					<button class="btn btn-primary" id="cake_fadein">Most Delicious Cake Ever</button>
-					<button class="btn btn-primary" id="light_candle"> Light Candle</button>
-					<button class="btn btn-primary" id="wish_message">Happy Birthday</button>
-					<button class="btn btn-primary" id="story">A mesage for you</button>
-					<!-- <button class="btn btn-primary" id="cake_cut">Lrt's Cut the Cake</button> -->
-				</div>
-			</div>
+		
 			<!-- <div class="col-md-2">
 			</div>
 			<div class="col-md-2">
@@ -183,17 +168,4 @@
 
 	</div>
 </body>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-<script src="effect.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58229732-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 </html>
